@@ -6,4 +6,5 @@
 - GitHub fundamental by FireShip - Completed 17 Jan 2022
 
 - Getting started on Terra Money - https://twitter.com/eeyernlee/status/1476784810970398720?s=20
+- 
 - Web 3 https://twitter.com/dabit3/status/1477463655491031045?s=21
