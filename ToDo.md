@@ -21,3 +21,5 @@
   - flex-wrap; nowrap (default), wrap
   - order: 0 (default), greater number goes behind the queue, can also be a negative number
 - First React Project https://scrimba.com/scrim/coa4b4cf1a86eeea340ae23b8 - 05 Feb 2022
+-  Learn React for Free on Scrimba https://scrimba.com/learn/learnreact (Start: 05 Feb 2022, Finish: 16 Feb 2022)
+-  React Firebase Full Course (Start: 19 Feb 2022, Finish: ??)
